@@ -1,0 +1,36 @@
+.bgimg2{
+	background-image: url('https://res.cloudinary.com/dnqfj3pwd/image/upload/v1672308123/background2_exe77g.webp');
+	background-size: cover;
+	height: 150vh;
+}
+.mobilehead{
+	font-family: roboto;
+	color: white;
+	font-weight: bold;
+	font-size: 35px;
+	padding: 25px;
+	
+}
+.layoutcard2{
+	background-color: whitesmoke;
+	border-radius: 8px;
+	padding: 15px;
+	margin: 18px;
+}
+.brandsimg{
+	width: 120px;
+	height: 120px;
+}
+.brandshead{
+	color: black;
+	font-family: roboto;
+	font-weight: bold;
+}
+.brandspara{
+	color: darkgery;
+	font-family: roboto;
+	font-size: 15px;
+}
+button{
+	width: 200px;
+}

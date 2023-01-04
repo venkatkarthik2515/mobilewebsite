@@ -1,0 +1,21 @@
+.bgimg{
+	background-image: url('https://res.cloudinary.com/dnqfj3pwd/image/upload/v1672224084/background_sfamxd.jpg');
+	background-size: cover;
+	height: 100vh;
+}
+.layoutcard{
+	background-color: white;
+	height: 200px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding: 10px;
+}
+.heading{
+	color: black;
+	font-display: roboto;
+	font-weight: bold;
+}
+.paraline{
+	font-family: roboto;
+	color: darkgreen;
+}

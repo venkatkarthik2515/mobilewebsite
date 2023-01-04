@@ -1,0 +1,36 @@
+.bgimg3{
+	background-image: url('https://res.cloudinary.com/dnqfj3pwd/image/upload/v1672308123/background2_exe77g.webp');
+	background-size: cover;
+	height: 150vh;
+}
+.headfirst{
+	font-family: roboto;
+	color: yellow;
+	font-weight: bold;
+	font-size: 35px;
+	padding: 25px;
+}
+.cardlayout{
+	background-color: white;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px;
+	margin: 100px;
+	margin-top: 15px;
+}
+.cardcon{
+	padding: 20px;
+}
+.headsecond{
+	color: black;
+	font-family: roboto;
+	font-weight: bold;
+	font-weight: bold;
+}
+.paraline{
+	color: darkgery;
+	font-family: roboto;
+	font-size: 15px;
+}
+button{
+	width: 200px;
+}
